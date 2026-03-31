@@ -1,0 +1,1 @@
+# hat_color_detection
