@@ -4,7 +4,7 @@ from PIL import Image
 from ultralytics import YOLO
 from utils.color_detector import threshold_color_detection
 
-
+# comment
 model = YOLO("yolov8m.pt")
 
 color_bgr = {
